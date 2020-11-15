@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there I am Manoj from India👋
 
+> I am passionate about programming and tech stuff, love to learn and share 
 <!--
 **manojap/manojap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+   
+
+- 👍 Intersted in Flutter/Dart/C# WPF/Python/Nodejs Projects
+- 🔭 I’m currently working on Flutter development
+- 🌱 I’m currently learning Flutter and Nodejs
+- 👯 I’m looking to collaborate on Python/C# WPF projects
+- 🤔 I’m looking for help with Flutter
+- 💬 Ask me about anything related to coding
+- 📫 How to reach me: manojap@outlook.com / manoj.mobile (Skype)/codehat_ (twitter)
+- 🐱‍🚀 Portfolio/blog: www.developermblog.wordpress.com
+- 🤳 Instagram : www.instagram.com/flowersandmacros
+- 🌹  Unsplash : https://unsplash.com/@manojap
+- ⚡ Fun fact: I never stop learning
+
