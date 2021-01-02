@@ -9,9 +9,9 @@ Here are some ideas to get you started:
    
 
 - 👍 Intersted in Flutter/Dart/C# WPF/Python/Nodejs Projects
-- 🔭 I’m currently working on Flutter development
-- 🌱 I’m currently learning Flutter and Nodejs
-- 👯 I’m looking to collaborate on Python/C# WPF projects
+- 🔭 I’m currently working on Windows development
+- 🌱 I’m currently learning React and Nodejs
+- 👯 I’m looking to collaborate on Python/C# WPF/React/MongoDB projects
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about anything related to coding
 - 📫 How to reach me: manojap@outlook.com / manoj.mobile (Skype)/codehat_ (twitter)
