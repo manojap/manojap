@@ -22,5 +22,8 @@ Here are some ideas to get you started:
 - 🌹  Covid Dashboard [Python] : http://pyboardc19.herokuapp.com/
 - 🌹  Sitemap Submssion Tool [Nodejs-Express]: http://quickindexing.herokuapp.com/
 - 🌹  Minimal Accounting Pacakage [C# WPF] : https://developerm.dev/book-keeper/
+- 🌹  Pexelsbot [Python] :https://github.com/manojap/pexelsbot
+- 🌹  Unsplashbot [Python] : https://github.com/manojap/unsplashbot
+
 - ⚡ Fun fact: I never stop learning
 
