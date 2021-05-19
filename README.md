@@ -8,14 +8,14 @@ Here are some ideas to get you started:
 -->
    
 
-- 👍 Intersted in Flutter/Dart/C# WPF/Python/Nodejs Projects
-- 🔭 I’m currently working on Windows development
-- 🌱 I’m currently learning React and Nodejs
-- 👯 I’m looking to collaborate on Python/C# WPF/React/MongoDB projects
+- 👍 Intersted in Vue/React/Angula/C# WPF/Python/Nodejs Projects
+- 🔭 I’m currently working on Vuejs development
+- 🌱 I’m currently learning Vue3,Bulma,TailwindCSS
+- 👯 I’m looking to collaborate on Python/C# WPF/React/Vue/MongoDB projects
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about anything related to coding
 - 📫 How to reach me: manojap@outlook.com / manoj.mobile (Skype)/codehat_ (twitter)
-- 🐱‍🚀 Portfolio/blog: www.developermblog.wordpress.com
+- 🐱‍🚀 Portfolio/blog: www.javascriptsu.wordpress.com
 - 🤳 Instagram : www.instagram.com/flowersandmacros
 - 🌹  Unsplash : https://unsplash.com/@manojap
 - 🌹  Pexels : https://www.pexels.com/@manoj-ap-257111
