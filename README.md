@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - 🌹  Pexelsbot [Python] :https://github.com/manojap/pexelsbot
 - 🌹  Unsplashbot [Python] : https://github.com/manojap/unsplashbot
 - 🌹  Covid Tracker [Vuejs-CoreUI] : https://covidlive.vercel.app/#/State/Kerala
+- 🌹  oh-vue-components [Vuejs-Buefy] :http://oh-vue-components.vercel.app/
 
 
 
