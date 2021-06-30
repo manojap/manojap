@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🤳 Instagram : www.instagram.com/flowersandmacros
 - 🌹  Unsplash : https://unsplash.com/@manojap
 - 🌹  Pexels : https://www.pexels.com/@manoj-ap-257111
-- ⚡ Fun fact: I never stop learning
-#### Projects
+- ⚡ Fun fact: World of coding is an infinite loop, you can't escape
 - 🌹  Covid Dashboard [Python] : http://pyboardc19.herokuapp.com/
 - 🌹  Sitemap Submssion Tool [Nodejs-Express]: http://quickindexing.herokuapp.com/
 - 🌹  Minimal Accounting Pacakage [C# WPF] : https://developerm.dev/book-keeper/
