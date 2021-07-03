@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python/C# WPF/React/Vue/MongoDB projects
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about anything related to coding
-- 📫 How to reach me: manojap@outlook.com / manoj.mobile (Skype)/codehat_ (twitter)
+- 📫 How to reach me: manojap@outlook.com / manoj.mobile (Skype)/codehat_ (twitter
+* 🐱‍🚀 Dev blog: https://dev.to/manojap
 - 🐱‍🚀 Portfolio/blog: www.javascriptsu.wordpress.com
 - 🤳 Instagram : www.instagram.com/flowersandmacros
 - 🌹  Unsplash : https://unsplash.com/@manojap
