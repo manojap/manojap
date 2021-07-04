@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to JavaScript
 - 📫 How to reach me: manojap@outlook.com / manoj.mobile (Skype)/codehat_ (twitter
 * 🐱‍🚀 Dev blog: https://dev.to/manojap
-- 🐱‍🚀 WP Portfolio/blog: www.javascriptsu.wordpress.com
+- 🐱‍🚀 On WP: www.javascriptsu.wordpress.com
 - 🤳 Instagram : www.instagram.com/flowersandmacros
 - 🌹  Unsplash : https://unsplash.com/@manojap
 - 🌹  Pexels : https://www.pexels.com/@manoj-ap-257111
