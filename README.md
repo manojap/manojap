@@ -1,6 +1,6 @@
 ### Hi there I am Manoj from India👋
 
-> I am passionate about programming and tech stuff, love to learn and share 
+> I am passionate about Javscript and UI devevelopment using React and Vue
 <!--
 **manojap/manojap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
