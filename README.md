@@ -1,4 +1,4 @@
-### Hi there I am Manoj from India👋
+### I am UI developer....👋
 
 > I am passionate about Javscript and UI devevelopment using React and Vue
 <!--
