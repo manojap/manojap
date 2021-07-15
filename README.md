@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
    
 
-- 👍 Intersted in Vue/React/Next/Nuxt/Python/Nodejs/Deno Projects
+- 👍 Intersted in Vue/React/Next/Nuxt/Deno Projects
 - 🔭 I’m currently working on React/Next development
 - 🐱‍🚀 Blog: https://codehat.vercel.app 
 - 🌹  Unsplash : https://unsplash.com/@manojap
